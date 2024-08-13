@@ -9,8 +9,9 @@ Features
 
 Prerequisites
 
-  Python 3.x: Ensure you have Python 3 installed. You can download it from python.org.
-  winget: The Windows Package Manager must be installed on your system. winget is available by default on Windows 10 version 1809 and later. You can learn more about it here.
+  Python 3.x: Ensure you have Python 3 installed. You can download it from [Python Official Website](https://www.python.org).
+
+  winget: The Windows Package Manager must be installed on your system. winget is available by default on Windows 10 version 1809 and later. You can learn more about it [here](https://learn.microsoft.com/en-us/windows/package-manager/winget/).
 
 Installation
 
