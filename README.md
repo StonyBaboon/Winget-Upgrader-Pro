@@ -17,15 +17,11 @@ Installation
 
   Clone the repository:
 ```
-  bash
-
 git clone https://github.com//StonyBaboon/Winget-Upgrader-Pro.git
 cd windows-package-updater
 ```
   Run the Script:
 ```
-bash
-
   python apps_updated.py
 ```
 Usage
